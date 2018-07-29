@@ -1,0 +1,17 @@
+{
+    "name": "BDD-sandwich-test",
+    "version": "0.0.1",
+    "description": "Testing BDD using mocha",
+    "author": "Robson Alviani <robsonala@gmail.com> (https://github.com/robsonala)",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "latest",
+        "async": "latest"
+    },
+    "devDependencies": {
+        "mocha": "^5.2.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
