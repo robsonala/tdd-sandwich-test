@@ -1,6 +1,6 @@
 # TDD Sandwich Test
 
-Node.js project used to test BDD using mocha.
+Node.js project used to test TDD using mocha.
 
 ***
 
